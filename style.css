@@ -1,0 +1,8 @@
+footer {
+    text-align: center; /* Выравнивает текст по середину */
+}
+
+.article { 
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
