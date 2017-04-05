@@ -20,7 +20,7 @@
                 </label>
                 <label> 
                     Дата 
-                    <input type="date" name="date" value="<?=$article['date']?></inpu>>" class="form-item" required> 
+                    <input type="date" name="date" value="<?=$article['date']?></inpu>" class="form-item" required> 
                 </label>
                 <label> 
                     Содержимое
